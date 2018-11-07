@@ -7,4 +7,4 @@ https://aspclassic.azurewebsites.net/
 
 Azure ASP.NET WebServices url:
 
-https://webservices.azurewebsites.net/Services/ClientService.asmx
+https://aspnetwebservices.azurewebsites.net/Services/ClientServices.asmx
