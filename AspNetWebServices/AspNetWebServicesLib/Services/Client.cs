@@ -8,5 +8,10 @@ namespace AspNetWebServicesLib.Services
         {
             return new BLL.Client().Get();
         }
+
+        public DTO.Client GetClientByName(string name)
+        {
+            return new BLL.Client().GetClientByName(name);
+        }
     }
 }
